@@ -1,1 +1,5 @@
-# 08-js-dom-condicoes
+# #08 - JS: DOM e Condições
+
+### Luan Paulino Marcelino
+
+[comment]: <> (Luan Paulino Marcelino)
